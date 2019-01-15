@@ -1,2 +1,2 @@
-# demo-git
-mon premier repository
+# demo-on premier repository
+un demo de git premiere demo
